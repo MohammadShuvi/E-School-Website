@@ -1,0 +1,212 @@
+#h6{
+    color: red;
+}
+#Shedule{
+    color: #21B573;
+}
+
+#signin{
+    border: none;
+    border-radius: 19px;
+    color: white;
+    background-color: #21B573;;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.nav-link{
+    color: black;
+}
+
+}
+
+.getstared{
+    border: none;
+    border-radius: 19px;
+    color: white;
+    background-color: #21B573;;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container1{
+    background-color: #F0FFF0;
+    padding-left: 40px;
+}
+
+.book{
+    width: 170px;
+    height: 170px;
+    padding-left: 70px;
+    padding-top: 58px;
+    
+}
+.container{
+    margin-top: 20px;
+}
+.h3{
+    margin-left: 50px;
+    margin-top: 20px;
+    color: #413960;
+}
+.para{
+    margin-left: 65px;
+}
+.card1{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    
+}
+.book31{
+    width: 170px;
+    height: 170px;
+    margin-right: 40px;
+    padding-left: 70px;
+    padding-top: 58px;
+}
+.h31{
+    padding-top: 20px;
+    color:#413960 ;
+    padding-left: 10px;
+}
+.para31{
+    padding-left: 42px;
+}
+.card{
+    background-color: #F0FFF0;
+    border: none;
+}
+.get{
+    border: none;
+    border-radius: 19px;
+    color: white;
+    background-color: #21B573;;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.container3{
+    margin-top: 40px;
+}
+#Online-courses{
+    text-align: center;
+    color: #413960;
+}
+,card5{
+   margin-right: 100px;
+}
+.book32{
+    width: 331px;
+height: 234px;
+padding-left: 20px;
+margin-right: 20px;
+margin-left: 50px;
+
+}
+.h32{
+   margin-left: 73px;
+    color:#413960 ;
+   
+}
+.para32{
+    margin-left: 74px;
+}
+.buynow{
+    border: none;
+    border-radius: 19px;
+    color: white;
+    background-color: #21B573;;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+margin-left: 70px;
+}
+#calendar{
+    height: 40px;
+    width: 40px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.course{
+    margin-left: 50px;
+}
+.cal{
+    width: 50%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 1%;
+}
+#Test{
+    text-align: center;
+}
+.online-Course{
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 20px;
+    cursor: pointer
+}
+.card:hover {
+    background: #fbfffb;
+  }
+.footer-icon img{
+    width: 20px;
+}
+.link-button{
+    border: none;
+    border-radius: 19px;
+    color: white;
+    background-color: #21B573;;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#Testimonial{
+    text-align: center;
+}
+.Testimonial-man img{
+    width: 130px;
+}
+.wrap{
+    width: 550px;
+    margin-left: 50px;
+    text-align: justify ;
+}
+.footer-area {
+    margin-top: 60px;
+    padding: 40px;
+    height: 80%;
+    width: 100%;
+    background-color: #282531;
+    color: whitesmoke;
+
+}
+
+/*footer-style*/
+.footer-copyright{
+    margin-top: 50px;
+    text-align: center;
+}
+.footer-area {
+    margin-top: 60px;
+    padding: 40px;
+    height: 80%;
+    width: 100%;
+    background-color: #282531;
+    color: whitesmoke;
+
+}
+
+/*footer-style*/
+.footer-copyright{
+    margin-top: 50px;
+    text-align: center;
+}
+© 2020 GitHub, Inc.
